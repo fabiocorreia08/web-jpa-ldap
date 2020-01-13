@@ -1,0 +1,11 @@
+br\gov\cmb\cfad\model\EmpregadoErp.class
+br\gov\cmb\cfad\repository\EmpregadoErpRepository.class
+br\gov\cmb\cfad\service\EmpregadoAdServiceImpl.class
+br\gov\cmb\cfad\model\EmpregadoAd.class
+br\gov\cmb\cfad\service\EmpregadoErpServiceImpl.class
+br\gov\cmb\cfad\repository\EmpregadoAdRepository.class
+br\gov\cmb\cfad\controller\EmpregadoAdController.class
+br\gov\cmb\cfad\service\EmpregadoAdService.class
+br\gov\cmb\cfad\service\EmpregadoErpService.class
+br\gov\cmb\cfad\Application.class
+br\gov\cmb\cfad\controller\EmpregadoErpController.class
